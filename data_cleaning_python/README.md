@@ -1,4 +1,4 @@
-\#  Data Cleaning Project – Customer Call List
+\# Data Cleaning Project – Customer Call List
 
 
 
