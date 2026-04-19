@@ -1,6 +1,6 @@
-# 📊 Data Cleaning Project – Customer Call List
+# Data Cleaning Project – Customer Call List
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on cleaning and preparing a raw customer dataset using Python (Pandas).
 The dataset contains inconsistent formats, missing values, and unnecessary columns.
 
@@ -8,7 +8,7 @@ The goal is to transform the data into a clean and usable format for analysis.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Jupyter Notebook
@@ -55,7 +55,7 @@ The goal is to transform the data into a clean and usable format for analysis.
 
 ---
 
-## 📈 Result
+## Result
 The dataset is now:
 - Clean
 - Consistent
@@ -63,12 +63,12 @@ The dataset is now:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add data visualization
 - Perform exploratory data analysis (EDA)
 - Automate cleaning pipeline
 
 ---
 
-## 👩‍💻 Author
-Vanessa
+## Author
+Vanessa CHAPTCHET
